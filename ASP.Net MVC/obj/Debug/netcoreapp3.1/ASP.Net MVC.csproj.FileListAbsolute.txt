@@ -1,0 +1,36 @@
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\bin\Debug\netcoreapp3.1\ASP.Net MVC.exe
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\bin\Debug\netcoreapp3.1\ASP.Net MVC.deps.json
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\bin\Debug\netcoreapp3.1\ASP.Net MVC.runtimeconfig.json
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\bin\Debug\netcoreapp3.1\ASP.Net MVC.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\bin\Debug\netcoreapp3.1\ASP.Net MVC.dll
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\bin\Debug\netcoreapp3.1\ASP.Net MVC.pdb
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\bin\Debug\netcoreapp3.1\ASP.Net MVC.Views.dll
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\bin\Debug\netcoreapp3.1\ASP.Net MVC.Views.pdb
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\staticwebassets\ASP.Net MVC.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\staticwebassets\ASP.Net MVC.StaticWebAssets.xml
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP.Net MVC.styles.css
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.Views.pdb
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.dll
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.pdb
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\ASP.Net MVC.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\Razor\Views\About\index.cshtml.g.cs
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\ASP.Net MVC\ASP.Net MVC\obj\Debug\netcoreapp3.1\Razor\Views\Referances\Index.cshtml.g.cs
